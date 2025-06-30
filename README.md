@@ -2,7 +2,7 @@
 
 This project develops and evaluates various machine learning and deep learning models to classify SMS messages as "ham" (legitimate) or "spam". It serves as a comprehensive guide to building a robust spam detection system, comparing traditional algorithms with modern neural network architectures.
 
-![Spam vs Ham](https://i.imgur.com/uTNaA1g.png)
+
 
 ## Table of Contents
 - [Project Summary](#project-summary)
@@ -34,7 +34,7 @@ To run this project, clone the repository and install the required dependencies.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/sms-spam-detection.git](https://github.com/your-username/sms-spam-detection.git)
+    git clone (https://github.com/Muhammad-Adil-code/sms-spam-detection-using-ML.git)
     cd sms-spam-detection
     ```
 
